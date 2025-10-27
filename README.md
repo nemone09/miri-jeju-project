@@ -32,12 +32,9 @@
 
 ### 4️⃣ 텍스트 기반 키워드 분석 (TF-IDF)
 - TF-IDF 분석을 이용해 제주 지역별 대표 키워드 도출  
-
-- 분석 결과 상위 3개 태그를 조합하여 **지역별 관광 테마 설정**  
+- 분석 결과 상위 3개 태그를 조합하여 **지역별 관광 테마 설정**     
 - 추출된 테마 데이터를 Miri 제주 DB에 적재해 **챗봇 답변 로직에 활용**
-
   
-
 ---
 
 ## 📂 Repository Structure
@@ -54,15 +51,14 @@ miri-jeju-project/
 ## 🖼️ Visualization
 
 ### 🔠 제주 전체 관광지 태그 빈도수 TOP 30
-<img src="images/tag_top30.png" width="600"/>
+<img src="https://github.com/nemone09/miri-jeju-project/blob/main/images/tag_top30.png?raw=true" width="600"/>
 
 ### 🔠 지역별 관광지 태그 빈도수 TOP 10
-
-<img src="images/top10_by_region.png" width="600"/>
+<img src="https://github.com/nemone09/miri-jeju-project/blob/main/images/top10_by_region.png?raw=true" width="600"/>
 
 ### ☁️ 제주 전체 관광지 태그 워드클라우드
-<img src="images/wordcloud1.png" width="500"/>
-<img src="images/wordcloud2.png" width="500"/>
+<img src="https://github.com/nemone09/miri-jeju-project/blob/main/images/wordcloud1.png?raw=true" width="500"/>
+<img src="https://github.com/nemone09/miri-jeju-project/blob/main/images/wordcloud2.png?raw=true" width="500"/>
 
 ---
 
