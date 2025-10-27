@@ -51,14 +51,16 @@ miri-jeju-project/
 ## 🖼️ Visualization
 
 ### 🔠 제주 전체 관광지 태그 빈도수 TOP 30
-<img src="images/tag_top30.png" width="600"/>
+<img width="2969" height="1771" alt="tag_top30" src="https://github.com/user-attachments/assets/5e2b1837-43c6-4584-9635-c35607015498" />
 
 ### 🔠 지역별 관광지 태그 빈도수 TOP 10
-<img src="images/top10_by_region.png" width="600"/>
+<img width="5371" height="4466" alt="top10_by_region" src="https://github.com/user-attachments/assets/5e525682-8734-46e4-842f-5e99f2e558b7" />
 
 ### ☁️ 제주 전체 관광지 태그 워드클라우드
-<img src="images/wordcloud1.png" width="500"/>
-<img src="images/wordcloud2.png" width="500"/>
+<img width="2474" height="2453" alt="wordcloud1" src="https://github.com/user-attachments/assets/da3aa62e-39d6-40de-8d77-c2f748f63b73" />
+<img width="1919" height="1187" alt="wordcloud2" src="https://github.com/user-attachments/assets/8b5e4653-4f9c-4271-844d-0ae16f4302a9" />
+
+
 
 ---
 
