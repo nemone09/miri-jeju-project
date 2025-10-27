@@ -53,16 +53,16 @@ miri-jeju-project/
 
 ## 🖼️ Visualization
 
-### 🔠 제주 전체 관광지 태그 빈도수 TOP 30
-<img src="images/tag_top30.png" width="600"/>
+### 🔠 제주 전체 관광지 태그 빈도수 TOP 30        
+<img src="https://raw.githubusercontent.com/nemone09/miri-jeju-project/main/images/tag_top30.png" width="600"/>
 
-### 🔠 지역별 관광지 태그 빈도수 TOP 10
+### 🔠 지역별 관광지 태그 빈도수 TOP 10          
+<img src="https://raw.githubusercontent.com/nemone09/miri-jeju-project/main/images/top10_by_region.png" width="600"/>
 
-<img src="images/top10_by_region.png" width="600"/>
+### ☁️ 제주 전체 관광지 태그 워드클라우드               
+<img src="https://raw.githubusercontent.com/nemone09/miri-jeju-project/main/images/wordcloud1.png" width="500"/>
+<img src="https://raw.githubusercontent.com/nemone09/miri-jeju-project/main/images/wordcloud2.png" width="500"/>
 
-### ☁️ 제주 전체 관광지 태그 워드클라우드
-<img src="images/wordcloud1.png" width="500"/>
-<img src="images/wordcloud2.png" width="500"/>
 
 ---
 
@@ -76,5 +76,6 @@ miri-jeju-project/
 ## 📄 참고
 > 본 프로젝트는 대경ICT산업협회에서 주관한 AI 부트캠프 프로젝트 결과물입니다.                  
 >  **‘Miri 제주’ 프로젝트**의 일부로  **데이터 수집 및 분석 파트만을 포함**합니다.                 
+
 
 
