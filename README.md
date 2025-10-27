@@ -65,14 +65,14 @@ miri-jeju-project/
 ---
 
 ## 🛠️ 사용 기술
-- **Python**: Pandas, WordCloud, Matplotlib, Scikit-learn(TF-IDF)
+- Python, Pandas, WordCloud, Matplotlib, Scikit-learn(TF-IDF)
 - **API**: VisitJeju Open API  
 - **EDA 도구**: Jupyter Notebook
 
 ---
 
 ## 📄 참고
-> 본 프로젝트는 대경ICT산업협회에서 주관한 AI 부트캠프 프로젝트 결과물입니다.                  
+> 본 프로젝트는 (사)대경ICT산업협회에서 주관한 AI 부트캠프 프로젝트 결과물입니다.                  
 >  **‘Miri 제주’ 프로젝트**의 일부로  **데이터 수집 및 분석 파트만을 포함**합니다.                 
 
 
