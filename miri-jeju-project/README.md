@@ -42,12 +42,12 @@
 
 ## 📂 Repository Structure
 
-miri-jeju-project/
- ├── src/               # VisitJeju API 호출 코드
- ├── data/              # 정제된 관광지 데이터 (CSV)
- ├── analysis/          # Jupyter Notebook (EDA, TF-IDF 분석)
- ├── images/            # 시각화 결과물 (워드클라우드, 바차트 등)
- └── README.md
+miri-jeju-project/                      
+ ├── src/               # VisitJeju API 호출 코드             
+ ├── data/              # 정제된 관광지 데이터 (CSV)              
+ ├── analysis/          # Jupyter Notebook (EDA, TF-IDF 분석)              
+ ├── images/            # 시각화 결과물 (워드클라우드, 바차트 등)                   
+ └── README.md                 
 
 ---
 
@@ -74,6 +74,7 @@ miri-jeju-project/
 ---
 
 ## 📄 참고
-> 본 프로젝트는 대경ICT산업협회에서 주관한 AI 부트캠프 프로젝트 결과물입니다.
->  **‘Miri 제주’ 프로젝트**의 일부로  **데이터 수집 및 분석 파트만을 포함**합니다.
+> 본 프로젝트는 대경ICT산업협회에서 주관한 AI 부트캠프 프로젝트 결과물입니다.                  
+>  **‘Miri 제주’ 프로젝트**의 일부로  **데이터 수집 및 분석 파트만을 포함**합니다.                 
+
 
